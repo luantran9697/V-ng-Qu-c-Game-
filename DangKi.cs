@@ -15,7 +15,7 @@ namespace VuongQuocTroChoi
     {
         public DangKi()
         {
-            InitializeComponent();
+            InitializeComponent();helllo
         }
 
         private void timer1_Tick(object sender, EventArgs e)
