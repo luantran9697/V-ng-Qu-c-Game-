@@ -15,7 +15,7 @@ namespace VuongQuocTroChoi
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); hiihi
         }
 
         private void timer1_Tick(object sender, EventArgs e)
