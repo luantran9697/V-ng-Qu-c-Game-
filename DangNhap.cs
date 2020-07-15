@@ -14,7 +14,7 @@ namespace VuongQuocTroChoi
 {
     public partial class DangNhap : Form
     {
-        public DangNhap()
+        public DangNhap() hahaha
         {
             Thread t = new Thread(new ThreadStart(VuongQuocTroChoi));
             t.Start();
