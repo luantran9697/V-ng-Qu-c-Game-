@@ -14,7 +14,7 @@ namespace VuongQuocTroChoi
 {
     public partial class FormGameBauCua : Form
     {
-        public FormGameBauCua()
+        public FormGameBauCua() hohoh
         {
             Thread t = new Thread(new ThreadStart(VuongQuocTroChoi));
             t.Start();
